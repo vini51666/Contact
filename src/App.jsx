@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar"
 import Form from "./Components/Form"
 import Contact from "./Components/Contact"
-import Social from "./Components/social"
+import Social from "./Components/Social"
 import NewsLetter from "./Components/NewsLetter"
 import Footer from "./Components/Footer"
 import "./App.css"
@@ -14,7 +14,7 @@ function App() {
      <Navbar/>
      <Form/>
      <Contact/>
-     <Social />
+     <Social/>
      <NewsLetter/>
      <Footer/>
     </>
