@@ -1,6 +1,5 @@
-o	{
-o	  "rewrites": [
-o	    { "source": "/(.*)", "destination": "/" }
-o	  ]
-o	}
-
+{
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
