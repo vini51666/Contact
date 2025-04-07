@@ -18,7 +18,7 @@ const Form = () => {
   return (
     <div className="main-container">
       <div className="left-image">
-        <img src="img.1.png" alt="Transformation Image" />
+        <img src="/assets/img.1.png" alt="Transformation Image" />
       </div>
       <div className="background-image"></div>
 
