@@ -1,9 +1,6 @@
 import React, { useState } from 'react';
 import "./Form.css";
 
-
-
-
 const Form = () => {
   const [selectedProgram, setSelectedProgram] = useState("Programs Interested");
 
