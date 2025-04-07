@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import "./Form.css";
-import img1 from "../assets/img.1.png";
+import image from '../assets/img.1.png';
+
+<img src={image} alt="Transformation Image" />
+
 
 
 const Form = () => {
@@ -20,8 +23,8 @@ const Form = () => {
   return (
     <div className="main-container">
       <div className="left-image">
-      <img src={img1} alt="Transformation Image" />
       <img src="/images/img.1.png" alt="Transformation Image" />
+
       </div>
       <div className="background-image"></div>
 
