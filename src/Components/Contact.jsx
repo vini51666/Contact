@@ -11,11 +11,11 @@ const contact = () => {
         <p><strong>Email:</strong> Falguni.Vahora@blissquants.com</p>
     </div>
     <div class="card">
-     <img src="/images/messenger.png" alt="Messenger" />
+        <img src="/images/msg.png" alt="Messenger" />
         <p><strong>Messenger:</strong> Chat with us for quick response</p>
     </div>
     <div class="card">
-        <img src="/images/address.png" alt="Address" />
+        <img src="/images/loc.png" alt="Address" />
         <p><strong>Address:</strong>D - 422,ITC Building, BlissQuants Datalytics LLP, Majuragate, Surat 395002</p>
     </div>
 </div>
