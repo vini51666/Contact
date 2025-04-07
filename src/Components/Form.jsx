@@ -2,10 +2,6 @@ import React, { useState } from 'react';
 import "./Form.css";
 import image from '../assets/img.1.png';
 
-<img src={image} alt="Transformation Image" />
-
-
-
 const Form = () => {
   const [selectedProgram, setSelectedProgram] = useState("Programs Interested");
 
@@ -23,7 +19,7 @@ const Form = () => {
   return (
     <div className="main-container">
       <div className="left-image">
-      <img src="/images/img.1.png" alt="Transformation Image" />
+      <img src={image} alt="Transformation Image" />
 
       </div>
       <div className="background-image"></div>
